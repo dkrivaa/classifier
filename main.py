@@ -21,7 +21,7 @@ def process_image(model, image, size, preprocess_input):
     #
     # st.pyplot(fig)
 
-    st.write(title)
+    st.write(f'this is: {title})
 
 
 
